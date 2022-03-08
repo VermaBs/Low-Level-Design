@@ -1,0 +1,8 @@
+Requirements ---
+
+1. Multi level parking
+2. Multiple category of parking vehicle -SUV ,car etc..
+3. Multiple entry and exit point
+4. should not allow to park more than allocated vehicle per category
+5. charge hourly basis
+6. display number of parking for each vehicle at entry itself
