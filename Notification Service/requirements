@@ -1,0 +1,6 @@
+
+1. Notifications service should be decoupled from main application
+2. Service should support multiple type of notification eg.. text message ,QR code
+3. Service should support multiple ways of sending notifications eg.. Text message,email,whatsapp msg
+4. Each type can have its own processor
+5. processor should be extensible like in future if we want to add telegram message 
