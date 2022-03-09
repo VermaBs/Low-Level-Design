@@ -1,0 +1,4 @@
+requirements
+ should be able to log into multiple places- eg. Console, log file , db
+ should be able to log mutiple category - eg. INFO, ERROR, DEBUG
+ category and place of logging should be configurable
